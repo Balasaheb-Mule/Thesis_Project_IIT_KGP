@@ -14,9 +14,9 @@ This thesis addresses the problem of bus bunching by proposing a headway-based b
 ## About Dataset
 Bus GPS trajectory data was collected from West Bengal Transportation Corporation (WBTC) for a period of 2 months of Kolkata City. Data consists of variables like bus ID, its latitude, and longitude with respect to time stamps. It has many other features like 'location_data_id', 'entry_date', 'device_id', 'event_location', 'segment_id', 'region_id' & 'journey_id'. Data showing updated positions of buses every 01 to 02 minutes. High-frequency bus routes are considered for this study. Selected routes are AC1 down which starts from Howrah station & terminates at Jadhavpur.
 <p align="center">
-  <img src="https://github.com/Balasaheb-Mule/Thesis_Project_IIT_KGP/assets/138377175/22eb6985-580e-4e62-a9a5-3746c8c1878c" alt="Screenshot 2024-01-29 190603" width="400"/>
+  <img src="https://github.com/Balasaheb-Mule/Thesis_Project_IIT_KGP/assets/138377175/22eb6985-580e-4e62-a9a5-3746c8c1878c" alt="Screenshot 2024-01-29 190603" width="300"/>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/Balasaheb-Mule/Thesis_Project_IIT_KGP/assets/138377175/1c21ce94-33c4-4504-96f6-569117b0fcbc" alt="Methodology" width="400"/>
+  <img src="https://github.com/Balasaheb-Mule/Thesis_Project_IIT_KGP/assets/138377175/1c21ce94-33c4-4504-96f6-569117b0fcbc" alt="Methodology" width="300"/>
 </p>
 
 ## Methodology
@@ -31,9 +31,9 @@ The performance of the trained regression model of headway prediction was evalua
 The trained model exhibited promising performance, as evidenced by high R-squared scores and low error metrics. Collinearity among features was assessed using a correlation matrix, providing insights into the relationships between different features and their impact on the model's predictive capabilities. Overall, the developed headway based predictive model provides a valuable tool for transit agencies to anticipate and mitigate instances of bus bunching in both single and multiple stop segments, contributing to improved efficiency and reliability of transit services.
 
 <p align="center">
-  <img src="https://github.com/Balasaheb-Mule/Thesis_Project_IIT_KGP/assets/138377175/0cc7aa29-1a61-49dd-9fa9-fe1644724844" alt="Screenshot 2024-05-01 135857" width="400"/>
+  <img src="https://github.com/Balasaheb-Mule/Thesis_Project_IIT_KGP/assets/138377175/0cc7aa29-1a61-49dd-9fa9-fe1644724844" alt="Screenshot 2024-05-01 135857" width="300"/>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/Balasaheb-Mule/Thesis_Project_IIT_KGP/assets/138377175/ceff5797-f389-495c-92a1-612244d723a0" alt="Screenshot 2024-04-28 040909" width="400"/>
+  <img src="https://github.com/Balasaheb-Mule/Thesis_Project_IIT_KGP/assets/138377175/ceff5797-f389-495c-92a1-612244d723a0" alt="Screenshot 2024-04-28 040909" width="300"/>
 </p>
 
 
