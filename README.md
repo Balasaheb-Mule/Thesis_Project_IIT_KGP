@@ -24,7 +24,7 @@ The performance of the trained regression model of headway prediction was evalua
 ## Analysis & Results
 The trained model exhibited promising performance, as evidenced by high R-squared scores and low error metrics. Collinearity among features was assessed using a correlation matrix, providing insights into the relationships between different features and their impact on the model's predictive capabilities. Overall, the developed headway based predictive model provides a valuable tool for transit agencies to anticipate and mitigate instances of bus bunching in both single and multiple stop segments, contributing to improved efficiency and reliability of transit services.
 
-# Conclusion
+## Conclusion
 •	SVM model outperformed over other machine learning models with  R-squared values of 0.92 & 0.86 for single and multi step model with RMSE values of headway were 42 seconds and 62 seconds, which is acceptable, proves positive performance of model
 <br> •	Addition of variables based on historical data aided model performance. Hence, utilization of historical data along with real time inputs is recommended
 <br> •	Prediction horizon till next 5 stops was achieved with acceptable RMSE values.
