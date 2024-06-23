@@ -26,8 +26,8 @@ The trained model exhibited promising performance, as evidenced by high R-square
 
 # Conclusion
 •	SVM model outperformed over other machine learning models with  R-squared values of 0.92 & 0.86 for single and multi step model with RMSE values of headway were 42 seconds and 62 seconds, which is acceptable, proves positive performance of model
-•	Addition of variables based on historical data aided model performance. Hence, utilization of historical data along with real time inputs is recommended
-•	Prediction horizon till next 5 stops was achieved with acceptable RMSE values.
+<br> •	Addition of variables based on historical data aided model performance. Hence, utilization of historical data along with real time inputs is recommended
+<br> •	Prediction horizon till next 5 stops was achieved with acceptable RMSE values.
 
 ## Detailed Thesis Report
 The comprehensive thesis report can be accessed via this google drive link for any further clarification :
