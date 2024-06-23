@@ -31,7 +31,7 @@ The performance of the trained regression model of headway prediction was evalua
 The trained model exhibited promising performance, as evidenced by high R-squared scores and low error metrics. Collinearity among features was assessed using a correlation matrix, providing insights into the relationships between different features and their impact on the model's predictive capabilities. Overall, the developed headway based predictive model provides a valuable tool for transit agencies to anticipate and mitigate instances of bus bunching in both single and multiple stop segments, contributing to improved efficiency and reliability of transit services.
 
 <p align="center">
-  <img src="https://github.com/Balasaheb-Mule/Thesis_Project_IIT_KGP/assets/138377175/0cc7aa29-1a61-49dd-9fa9-fe1644724844" alt="Screenshot 2024-05-01 135857" width="300"/>
+  <img src="https://github.com/Balasaheb-Mule/Thesis_Project_IIT_KGP/assets/138377175/0cc7aa29-1a61-49dd-9fa9-fe1644724844" alt="Screenshot 2024-05-01 135857" width="400"/>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://github.com/Balasaheb-Mule/Thesis_Project_IIT_KGP/assets/138377175/ceff5797-f389-495c-92a1-612244d723a0" alt="Screenshot 2024-04-28 040909" width="300"/>
 </p>
